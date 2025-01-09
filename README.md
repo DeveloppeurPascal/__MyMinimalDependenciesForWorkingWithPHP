@@ -1,39 +1,49 @@
-# Delphi-Projects-Template
+# Minimal dependencies install for working with PHP on my projects
 
 [Cette page en français.](LISEZMOI.md)
 
-A git template for my Delphi (or others) projects.
+This project is used to initialize my working environment for building websites, backoffices or API servers.
 
-This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
+When you launch the batch file, you'll repatriate a number of code repositories to the folder in which you'll run it. Ideally, you should do this in the folder of your local web server.
 
-This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+You can use this basic project for your own installations by making a fork or copy and then customizing it to suit your needs, or simply taking inspiration from how it works.
 
-## Install
+If you're working on software, mobile applications and video games in Pascal (under Delphi or not) you could also use my [other minimal installation code repository for Delphi web projects](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi).
 
-To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+## Talks and conferences
 
-**Warning :** if the project has submodules dependencies they wont be in the ZIP file. You'll have to download them manually.
+### Twitch
 
-## Dependencies
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
-This project depends on :
+## Source code installation
 
-* project 1
-* project 2
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP).
+
+Download or copy the file "install-sub-repositories.bat" in the folder (for example in C:\xampp\htdocs if you use XAMPP) where you want to install my projects tree and execute it. “Git” must be accessible in your computer's default path.
+
+## License to use this code repository and its contents
+
+This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
+
+You are generally free to use the contents of this code repository anywhere, provided that:
+* you mention it in your projects
+* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
+* to distribute the source code of your creations under the AGPL license.
+
+If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+
+These source codes are provided as is, without warranty of any kind.
+
+Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 
 ## How to ask a new feature, report a bug or a security issue ?
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP) and [open a new issue](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP/issues).
 
 If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 
 You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## Dual licensing model (only for my projects, not for this code repository template)
-
-This project is distributed under [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
-
-If you want to use it or a part of it in your projects but don't want to share the sources or don't want to distribute your project under the same license you can buy the right to use it under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
 
 ## Support the project and its author
 
