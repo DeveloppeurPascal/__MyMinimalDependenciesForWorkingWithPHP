@@ -71,3 +71,8 @@ git submodule init
 git submodule update --remote
 cd ..
 cd ..
+
+mkdir ___templates
+cd ___templates
+git clone --recurse-submodules https://github.com/DeveloppeurPascal/Web-Projects-Template.git
+cd..
