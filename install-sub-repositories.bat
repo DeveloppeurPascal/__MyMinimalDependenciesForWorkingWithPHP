@@ -70,6 +70,11 @@ cd Light-ActivityPub-Server-PHP
 git submodule init
 git submodule update --remote
 cd ..
+git clone https://github.com/DeveloppeurPascal/Simple-Multilingual-Site.git
+cd Simple-Multilingual-Site
+git submodule init
+git submodule update --remote
+cd ..
 cd ..
 
 mkdir ___templates
