@@ -9,8 +9,8 @@ REM Par défaut j'utilise XAMP. Le dossier dans lequel lancer ce programme est d
 
 mkdir ___lib
 cd ___lib
-git clone --recurse-submodules https://github.com/DeveloppeurPascal/librairies-JavaScript.git
-git clone --recurse-submodules https://github.com/DeveloppeurPascal/librairies-PHP.git
+git clone --recurse-submodules https://codeberg.org/PatrickPremartin/librairies-JavaScript.git
+git clone --recurse-submodules https://codeberg.org/PatrickPremartin/librairies-PHP.git
 git clone --recurse-submodules https://github.com/DeveloppeurPascal/PHP-API-Dump.git
 cd ..
 	
