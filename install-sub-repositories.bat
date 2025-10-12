@@ -75,6 +75,11 @@ cd Simple-Multilingual-Site
 git submodule init
 git submodule update --remote
 cd ..
+git clone https://codeberg.org/PatrickPremartin/Block-Page-Site-Server.git
+cd Block-Page-Site-Server
+git submodule init
+git submodule update --remote
+cd ..
 cd ..
 
 mkdir ___templates
