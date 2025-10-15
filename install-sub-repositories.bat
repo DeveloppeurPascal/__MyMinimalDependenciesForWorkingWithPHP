@@ -89,5 +89,6 @@ cd ..
 
 mkdir ___templates
 cd ___templates
-git clone --recurse-submodules https://github.com/DeveloppeurPascal/Web-Projects-Template.git
+git clone --recurse-submodules https://github.com/DeveloppeurPascal/Web-Projects-Template.git Web-Projects-Template-On-GitHub
+git clone --recurse-submodules https://codeberg.org/PatrickPremartin/Web-Projects-Template.git Web-Projects-Template-On-Codeberg
 cd..
